@@ -6,13 +6,7 @@ The system uses a multi-agent architecture where each agent is responsible for a
 
 ## 📸 Application Overview
 
-<p align="center">
-  ./agentic%20ai.png
-</p>
-
-<p align="center">
-  <strong>Main application interface showcasing key features and workflow.</strong>
-</p>
+![Application Screenshot](agentic%20ai.png)
 ---
 
 ## ✨ Features
