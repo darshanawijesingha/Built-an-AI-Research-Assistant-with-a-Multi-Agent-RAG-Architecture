@@ -4,7 +4,7 @@ An advanced **Agentic Retrieval-Augmented Generation (RAG)** system that combine
 
 The system uses a multi-agent architecture where each agent is responsible for a specific task such as planning, retrieval, research, validation, analytics, and answer generation.
 
-![Application Screenshot](./agentic%ai.png)
+![Application Screenshot](agentic%ai.png)
 ---
 
 ## ✨ Features
